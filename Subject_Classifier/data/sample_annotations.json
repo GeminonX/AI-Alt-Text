@@ -1,0 +1,10 @@
+[
+    {
+        "image_path": "images/img1.jpg",
+        "label": "physics"
+    },
+    {
+        "image_path": "images/img2.jpg",
+        "label": "history"
+    }
+]

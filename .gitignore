@@ -1,0 +1,8 @@
+Subject_Classifier/.venv/
+Subject_Classifier/src/__pycache__/
+__pycache__/
+*.pyc
+*.zip
+.vscode/
+alt-text-vlm-system/
+Subject_Classifier/data/images/

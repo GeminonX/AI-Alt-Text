@@ -1,0 +1,11 @@
+{
+    "math": 0,
+    "computer_science": 1,
+    "physics": 2,
+    "engineering": 3,
+    "chemistry": 4,
+    "medicine": 5,
+    "history": 6,
+    "geopraphy": 7,
+    "english": 8
+}
